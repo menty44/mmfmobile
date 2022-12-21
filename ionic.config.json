@@ -1,0 +1,7 @@
+{
+  "name": "mmfmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
